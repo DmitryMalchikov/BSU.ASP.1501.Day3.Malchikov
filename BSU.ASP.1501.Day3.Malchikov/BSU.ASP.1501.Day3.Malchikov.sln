@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polynom", "Polynom\Polynom.csproj", "{2438DA69-67BD-44A9-9387-217C83CF62B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{2BDF922B-F3F3-4ECC-A097-EAAB7F171F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polynom.Tests", "Polynom.Tests\Polynom.Tests.csproj", "{E72353CF-F9E7-4865-AE68-9AA88DBA2DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2438DA69-67BD-44A9-9387-217C83CF62B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2438DA69-67BD-44A9-9387-217C83CF62B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2438DA69-67BD-44A9-9387-217C83CF62B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2438DA69-67BD-44A9-9387-217C83CF62B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BDF922B-F3F3-4ECC-A097-EAAB7F171F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDF922B-F3F3-4ECC-A097-EAAB7F171F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDF922B-F3F3-4ECC-A097-EAAB7F171F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDF922B-F3F3-4ECC-A097-EAAB7F171F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E72353CF-F9E7-4865-AE68-9AA88DBA2DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E72353CF-F9E7-4865-AE68-9AA88DBA2DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E72353CF-F9E7-4865-AE68-9AA88DBA2DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E72353CF-F9E7-4865-AE68-9AA88DBA2DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

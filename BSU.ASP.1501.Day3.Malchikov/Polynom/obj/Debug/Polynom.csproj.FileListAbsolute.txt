@@ -1,0 +1,9 @@
+H:\BSU.ASP.1501.Day2.Malchikov\BSU.ASP.1501.Day3.Malchikov\Polynom\bin\Debug\Polynom.dll
+H:\BSU.ASP.1501.Day2.Malchikov\BSU.ASP.1501.Day3.Malchikov\Polynom\bin\Debug\Polynom.pdb
+H:\BSU.ASP.1501.Day2.Malchikov\BSU.ASP.1501.Day3.Malchikov\Polynom\obj\Debug\Polynom.csprojResolveAssemblyReference.cache
+H:\BSU.ASP.1501.Day2.Malchikov\BSU.ASP.1501.Day3.Malchikov\Polynom\obj\Debug\Polynom.dll
+H:\BSU.ASP.1501.Day2.Malchikov\BSU.ASP.1501.Day3.Malchikov\Polynom\obj\Debug\Polynom.pdb
+H:\Repository1\BSU.ASP.1501.Day3.Malchikov\BSU.ASP.1501.Day3.Malchikov\Polynom\bin\Debug\Polynom.dll
+H:\Repository1\BSU.ASP.1501.Day3.Malchikov\BSU.ASP.1501.Day3.Malchikov\Polynom\bin\Debug\Polynom.pdb
+H:\Repository1\BSU.ASP.1501.Day3.Malchikov\BSU.ASP.1501.Day3.Malchikov\Polynom\obj\Debug\Polynom.dll
+H:\Repository1\BSU.ASP.1501.Day3.Malchikov\BSU.ASP.1501.Day3.Malchikov\Polynom\obj\Debug\Polynom.pdb
